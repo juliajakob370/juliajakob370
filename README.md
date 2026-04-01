@@ -1,16 +1,39 @@
-## Hi there 👋
+<img src="https://i.pinimg.com/1200x/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.jpg" width="100%" />
 
-<!--
-**juliajakob370/juliajakob370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Julia!</h1>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliajakob370&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juliajakob370&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliajakob370&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,html,js,ts,css,sqlite" />
+</p>
+
+<p align="center">
+  <sub>C • C# • HTML • JavaScript • TypeScript • CSS • SQL • XML</sub>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juliajakob370&color=blueviolet&style=flat" />
+</p>
+
+---
