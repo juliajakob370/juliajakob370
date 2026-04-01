@@ -28,10 +28,6 @@
   <sub>C • C# • HTML • JavaScript • TypeScript • CSS • SQL</sub>
 </p>
 
----
-
-## Profile Views :)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juliajakob370&color=blueviolet&style=flat" />
 </p>
