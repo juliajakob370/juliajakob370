@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <sub>C • C# • HTML • JavaScript • TypeScript • CSS • SQL • XML</sub>
+  <sub>C • C# • HTML • JavaScript • TypeScript • CSS • SQL</sub>
 </p>
 
 ---
