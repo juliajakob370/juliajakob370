@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Julia!</h1>
 
-## 📊 GitHub Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juliajakob370&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## My Top Languages Right Now
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,html,js,ts,css,mysql" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 👀 Profile Views
+## Profile Views :)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juliajakob370&color=blueviolet&style=flat" />
