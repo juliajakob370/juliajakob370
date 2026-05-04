@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/1200x/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.jpg" width="100%" />
-
 <h1 align="center">Hi, I'm Julia!</h1>
 
 ## Stats
