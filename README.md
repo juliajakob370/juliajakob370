@@ -3,11 +3,11 @@
 ## My Top Languages Right Now
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,html,js,ts,css,mysql,php" />
+  <img src="https://skillicons.dev/icons?i=php,cs,ts,html,js,css,mysql" />
 </p>
 
 <p align="center">
-  <sub>C • C# • HTML • JavaScript • TypeScript • CSS • SQL • PHP</sub>
+  <sub> PHP • C# • HTML • TypeScript • JavaScript • CSS • SQL</sub>
 </p>
 
 <p align="center">
