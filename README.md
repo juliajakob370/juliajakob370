@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Julia!</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,cs,ts,js,css" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,php,cs,ts,js,vue,c" />
 </p>
 
 <p align="center">
-  <sub> PHP • C# • TypeScript • JavaScript • CSS</sub>
+  <sub> React • Laravel • PHP • C# • TypeScript • JavaScript • Vue • C</sub>
 </p>
 
 <p align="center">
