@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Julia!</h1>
 
-## My Top Languages Right Now
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,cs,ts,html,js,css,mysql" />
 </p>
