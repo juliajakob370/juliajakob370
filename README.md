@@ -13,9 +13,3 @@
 </p>
 
 ---
-
-![HTML5](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-cdb4db?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd6a5?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-bde0fe?style=for-the-badge&logo=react&logoColor=black)
-![CS](https://img.shields.io/badge/C#-cdb4db?style=for-the-badge&logo=cplusplus&logoColor=white)
