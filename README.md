@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Julia!</h1>
 <p align="center">I'm a Software Developer at Vehikl; I love frontend UI/UX, creative problem-solving, and building thoughtful, people-focused experiences with energy and enthusiasm.</p>
 <p align="center">
-  <img src="https://github-readme-widget-p5hpxc8hx-juliajakob370s-projects.vercel.app/api/pet" alt="GitHub Profile Pet" width="400" />
+  <img src="https://github-readme-widget-opal.vercel.app/api/pet" alt="GitHub Profile Pet" width="400" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,php,cs,ts,js,vue,c" />
